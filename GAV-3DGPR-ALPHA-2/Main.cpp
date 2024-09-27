@@ -6,12 +6,12 @@
 #include <gl/GLU.h>
 #include <gl/glut.h>
 
-#include "Point3D.h"
-#include "Vector3D.h"
-#include "Camera.h"
-#include "Texture.h"
-#include "BlenderMesh.h"
-#include "Scenes.h"
+#include "Headers/Point3D.h"
+#include "Headers/Vector3D.h"
+#include "Headers/Camera.h"
+#include "Headers/Texture.h"
+#include "Headers/BlenderMesh.h"
+#include "Headers/Scenes.h"
 
 #define PI				3.1415926535897932384626433832795
 #define SCREEN_WIDTH	1760
@@ -32,15 +32,15 @@ float M = 0;
 
 // boolean variables to control scenes
 int CURRENT_SCENE_FLAG = 1;
-bool sceneOneInitFlag = false;		// SCENE ONE(A)				// DONE
-bool launchInitFlag = false;		// SCENE ONE(B)				// DONE
-bool leavingEarthInitFlag = false;	// SCENE ONE(OPT)			// DONE
-bool onMoonInitFlag = false;		// SCENE TWO(A)+TWO(B)		// DONE
-bool leavingMoonInitFlag = false;	// SCENE THREE				// DONE
-bool spacePanoramaInitFlag = false;	// SCENE FOUR				// DONE
-bool atPlutoInitFlag = false;		// SCENE FIVE				// DONE
-bool backAtEarthInitFlag = false;	// SCENE SIX				// DONE
-bool mountainInitFlag = false;		// SCENE SEVEN(OPT)			// BUILDING
+bool sceneOneInitFlag = false;		// SCENE ONE(A)
+bool launchInitFlag = false;		// SCENE ONE(B)
+bool leavingEarthInitFlag = false;	// SCENE ONE(OPT)
+bool onMoonInitFlag = false;		// SCENE TWO(A)+TWO(B)
+bool leavingMoonInitFlag = false;	// SCENE THREE
+bool spacePanoramaInitFlag = false;	// SCENE FOUR
+bool atPlutoInitFlag = false;		// SCENE FIVE
+bool backAtEarthInitFlag = false;	// SCENE SIX
+bool mountainInitFlag = false;		// SCENE SEVEN(OPT)
 
 // initialise GL. probably okay untouched. aspect ratio set to 16:9; see the gluPerspective() line
 void initGL() {
@@ -233,7 +233,7 @@ void updateUptime(int value) {
 		glutKeyboardFunc(keyboard);
 	}
 
-	std::cout << "Current uptime (ms): " << uptime << " sceneflag: " << CURRENT_SCENE_FLAG << std::endl;
+	std::cout << "sceneflag: " << CURRENT_SCENE_FLAG << std::endl;
 
 	glutTimerFunc(1000 / FPS, updateUptime, 0);
 }

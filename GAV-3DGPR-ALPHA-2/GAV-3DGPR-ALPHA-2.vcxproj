@@ -29,26 +29,26 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
@@ -72,6 +72,8 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
+    <IncludePath>C:\freeglut\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\freeglut\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -86,12 +88,13 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>freeglut.lib;opengl32.lib;glu32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -139,25 +142,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="Rendering\Camera.cpp" />
     <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Mesh.cpp" />
-    <ClCompile Include="Point3D.cpp" />
-    <ClCompile Include="Texture.cpp" />
-    <ClCompile Include="TexturedShape3D.cpp" />
-    <ClCompile Include="Vector.cpp" />
+    <ClCompile Include="Rendering\Mesh.cpp" />
+    <ClCompile Include="Rendering\Point3D.cpp" />
+    <ClCompile Include="Rendering\Texture.cpp" />
+    <ClCompile Include="Rendering\TexturedShape3D.cpp" />
+    <ClCompile Include="Rendering\Vector.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BlenderMesh.h" />
-    <ClInclude Include="Camera.h" />
-    <ClInclude Include="DannyObjects.h" />
-    <ClInclude Include="Mesh.h" />
-    <ClInclude Include="Point3D.h" />
-    <ClInclude Include="Scenes.h" />
-    <ClInclude Include="ScenesObjects.h" />
-    <ClInclude Include="Texture.h" />
-    <ClInclude Include="TexturedShape3D.h" />
-    <ClInclude Include="Vector3D.h" />
+    <ClInclude Include="Headers\BlenderMesh.h" />
+    <ClInclude Include="Headers\Camera.h" />
+    <ClInclude Include="Headers\DannyObjects.h" />
+    <ClInclude Include="Headers\Helpers.h" />
+    <ClInclude Include="Headers\Mesh.h" />
+    <ClInclude Include="Headers\Point3D.h" />
+    <ClInclude Include="Headers\Scenes.h" />
+    <ClInclude Include="Headers\ScenesObjects.h" />
+    <ClInclude Include="Headers\Texture.h" />
+    <ClInclude Include="Headers\TexturedShape3D.h" />
+    <ClInclude Include="Headers\Vector3D.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
