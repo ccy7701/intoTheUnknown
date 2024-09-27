@@ -18,54 +18,57 @@
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Camera.cpp">
+    <ClCompile Include="Rendering\Camera.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Mesh.cpp">
+    <ClCompile Include="Rendering\Mesh.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Point3D.cpp">
+    <ClCompile Include="Rendering\Point3D.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Texture.cpp">
+    <ClCompile Include="Rendering\Texture.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TexturedShape3D.cpp">
+    <ClCompile Include="Rendering\TexturedShape3D.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Vector.cpp">
+    <ClCompile Include="Rendering\Vector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BlenderMesh.h">
+    <ClInclude Include="Headers\BlenderMesh.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Camera.h">
+    <ClInclude Include="Headers\Camera.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="DannyObjects.h">
+    <ClInclude Include="Headers\DannyObjects.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Mesh.h">
+    <ClInclude Include="Headers\Mesh.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Point3D.h">
+    <ClInclude Include="Headers\Point3D.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Scenes.h">
+    <ClInclude Include="Headers\Scenes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ScenesObjects.h">
+    <ClInclude Include="Headers\ScenesObjects.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Texture.h">
+    <ClInclude Include="Headers\Texture.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="TexturedShape3D.h">
+    <ClInclude Include="Headers\TexturedShape3D.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Vector3D.h">
+    <ClInclude Include="Headers\Vector3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Helpers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

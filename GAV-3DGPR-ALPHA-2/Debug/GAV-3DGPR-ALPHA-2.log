@@ -1,2 +1,259 @@
 ﻿  Main.cpp
-  GAV-3DGPR-ALPHA-2.vcxproj -> C:\Users\chiew\Downloads\GAV-3DGPR\GAV-3DGPR-BUILDS\GAV-3DGPR-ALPHA-2\Debug\GAV-3DGPR-ALPHA-2.exe
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(209,30): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(209,23): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(209,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(220,29): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(220,23): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(220,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(252,30): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(252,23): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(252,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(270,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(316,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(316,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(316,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(340,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(366,22): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(370,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(370,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(371,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(385,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(411,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(415,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\ScenesObjects.h(441,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(16,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(171,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(175,13): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(176,11): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(182,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(346,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(354,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(363,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(364,12): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(367,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(368,12): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(455,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(459,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(464,11): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(470,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(473,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(474,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(556,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(560,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(565,11): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(573,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(641,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(641,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(641,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(652,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(656,11): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(657,13): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(663,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(729,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(756,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(760,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(766,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(767,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(768,12): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(864,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(868,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(873,11): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(889,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(890,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(899,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(900,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(901,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(908,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(912,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(916,14): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(918,14): warning C4305: '-=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(919,14): warning C4305: '-=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(983,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(987,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(991,11): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(997,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(998,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(999,14): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(1022,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(1022,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(1022,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(1132,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(1136,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(1141,13): warning C4305: '-=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Headers\Scenes.h(1144,14): warning C4305: '-=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Main.cpp(22,13): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Main.cpp(51,51): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Main.cpp(51,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Main.cpp(51,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Main.cpp(62,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Main.cpp(62,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Main.cpp(62,43): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Main.cpp(74,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Main.cpp(74,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Main.cpp(74,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\chiew\Downloads\New folder\intoTheUnknown\GAV-3DGPR-ALPHA-2\Main.cpp(85,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  GAV-3DGPR-ALPHA-2.vcxproj -> C:\Users\chiew\Downloads\New folder\intoTheUnknown\Debug\GAV-3DGPR-ALPHA-2.exe
